@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 <br>    I'm currently working on Frontend Developmeny<br>    Learning about DSA, Development, and a bit of Linux.<br>    Most of my projects are available on Github. and Gitlab<br>    You ping me about linux, JS, security.<br>
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ishpreet-singh-30435828b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishpreet@outlook.in) 
 
 # 💻 Tech Stack:
