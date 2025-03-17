@@ -1,5 +1,5 @@
 #  About Me:
-<br>    I'm currently working on Frontend Developmeny<br>    Learning about DSA, Development, and a bit of Linux.<br>    Most of my projects are available on Github. and Gitlab<br>    You ping me about linux, JS, security.<br>
+<br>    I'm currently working on Frontend Development<br>    Learning about DSA, Development, and a bit of Linux.<br>    Most of my projects are available on Github. and Gitlab<br>    You ping me about linux, JS, security.<br>
 
 
 ##  Socials:
