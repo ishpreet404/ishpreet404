@@ -43,12 +43,7 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/ishpreet404/ishpreet404/main/assets/github-contribution-grid-snake.svg)
-![snake gif dark](https://raw.githubusercontent.com/ishpreet404/ishpreet404/main/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
 
 
 
