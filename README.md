@@ -45,8 +45,8 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/ishpreet404/ishpreet404/blob/output/github-contribution-grid-snake.svg)
-![snake gif dark](https://github.com/ishpreet404/ishpreet404/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/ishpreet404/ishpreet404/blob/main/github-contribution-grid-snake.svg)
+![snake gif dark](https://github.com/ishpreet404/ishpreet404/blob/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
