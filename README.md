@@ -1,15 +1,56 @@
-#  About Me:
-<br>    I'm currently working on Frontend Development<br>    Learning about DSA, Development, and a bit of Linux.<br>    Most of my projects are available on Github. and Gitlab<br>    You ping me about linux, JS, security.<br>
+<h1 align="center">Hey there! I'm Ishpreet 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Golang+%7C+React+%7C+Linux+%7C+JavaScript;Learning+Everyday+%F0%9F%93%9A;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+---
+
+### 🙋‍♂️ About Me
+
+- 💻 I'm a **Full Stack Developer** passionate about building performant and scalable web applications.
+- 🔁 Currently diving deep into **Golang Backend**, **React Frontend**, and **System Design**.
+- 🧠 Learning **DSA**, **Security**, and working in **Linux** environments daily.
+- 🌐 Most of my projects are open-source on [GitHub](https://github.com/ishpreet404) and [GitLab](https://gitlab.com/).
+- 📬 You can ping me about: `Linux`, `Go`, `JavaScript`, `Security`, `Dev Tools`.
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishpreet-singh-30435828b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ishpreet@outlook.in)
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,js,ts,react,nodejs,express,cpp,java,html,css,tailwind,postgres,mysql,mongodb,vite,babel,phaser,linux,git" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishpreet404&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishpreet404&theme=catppuccin_latte&hide_border=false&layout=compact" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ishpreet404&theme=catppuccin_latte&hide_border=false" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/ishpreet404/ishpreet404/blob/output/github-contribution-grid-snake.svg)
+![snake gif dark](https://github.com/ishpreet404/ishpreet404/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
 
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ishpreet-singh-30435828b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishpreet@outlook.in) 
 
-# 💻 Tech Stack:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishpreet404&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ishpreet404&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishpreet404&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- Optional Visitor Badge -->
+![visitors](https://komarev.com/ghpvc/?username=ishpreet404&label=Profile+Views&color=58A6FF&style=flat-square) 
