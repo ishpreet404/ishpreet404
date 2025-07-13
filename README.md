@@ -38,7 +38,8 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ishpreet404&theme=catppuccin_latte&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishpreet404&theme=catppuccin_latte&hide_border=false&v=1" />
+
 </p>
 
 ---
