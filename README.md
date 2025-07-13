@@ -33,14 +33,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishpreet404&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishpreet404&theme=catppuccin_latte&hide_border=false&layout=compact" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishpreet404&theme=molokai&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishpreet404&theme=molokai&hide_border=false&layout=compact" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishpreet404&theme=catppuccin_latte&hide_border=false&v=1" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishpreet404&theme=molokai&hide_border=false&v=1" />
 </p>
+
 
 ---
 
